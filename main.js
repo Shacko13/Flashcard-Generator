@@ -164,13 +164,13 @@ function validCloze() {
 
 // if the user doesn't want to learn; they will be reprompted anyway unless they select it 3 times
 function lazy() {
-    if (lazinessCheatCount < 3) {
-        console.log("No way, dude!");
+    if (lazinessCheatCount < 2) {
+        console.log("Are you sure? You could probably use some learning.");
         console.log("---------------\n");
         lazinessCheatCount++;
         setTimeout(start, 1000);
     } else {
-        console.log("Wow! You really don't want to learn. I'll stop asking now. Later, dude.\n");
+        console.log("Wow, dude! You want to stay a dummy? Ok, then.  Later, dude!\n");
         return;
     }
 }
