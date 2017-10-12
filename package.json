@@ -1,0 +1,27 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "generate flashcards",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shacko13/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard"
+  ],
+  "author": "Todd Szakacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shacko13/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/Shacko13/Flashcard-Generator#readme"
+}

@@ -1,0 +1,8 @@
+{"clozeFront":"donald is the first name of president trump","clozeBack":"donald"};
+{"clozeFront":"insulin is the hormone that lowers blood sugar","clozeBack":"insulin"};
+{"clozeFront":"glucagon is the hormone that raises blood sugar","clozeBack":"glucagon"};
+{"clozeFront":"burr killed alexander hamilton (last name only)","clozeBack":"burr"};
+{"clozeFront":"rubio is the florida senator that ran against trump in the primary (last name only)","clozeBack":"rubio"};
+{"clozeFront":"You can't handle the truth -Colonel Jessup","clozeBack":"handle"};
+{"clozeFront":"trebek hosts jeopardy (last name only)","clozeBack":"trebek"};
+{"clozeFront":"alexander hamilton, james madison and john jay wrote the federalist papers","clozeBack":"john jay"};{"clozeFront":"the grass is green","clozeBack":"green"}

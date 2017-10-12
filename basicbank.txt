@@ -1,0 +1,7 @@
+{"basicFront":"What color is the sky","basicBack":"blue"};
+{"basicFront":"what greek letter represents 3.14?","basicBack":"pi"};
+{"basicFront":"who wrote the tell tale heart (last name only)?","basicBack":"poe"};
+{"basicFront":"what carbonyl group has two methyl groups on its carbon","basicBack":"ketone"};
+{"basicFront":"what is the capital of denmark","basicBack":"copenhagen"};
+{"basicFront":"How many days are in a week","basicBack":"7"};
+{"basicFront":"what comes after sunday","basicBack":"monday"}
